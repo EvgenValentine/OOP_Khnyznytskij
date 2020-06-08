@@ -3,7 +3,7 @@ package com.company;
 import java.util.Objects;
 /*
 *
-* Classame : Rectangle
+* Classname : Rectangle
 *
 *  07 June 2020
 *

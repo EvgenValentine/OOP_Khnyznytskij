@@ -1,7 +1,7 @@
 package com.company;
 /*
 *
-* Classame : Main
+* Classname : Main
 *
 *  07 June 2020
 *

@@ -2,7 +2,7 @@ package com.company;
 
 /*
 *
-* Classame : BedsideTable
+* Classname : BedsideTable
 *
 *  07 June 2020
 *

@@ -4,7 +4,7 @@ import java.util.Objects;
 
 /*
 *
-* Classame : Rectangular box
+* Classname : Rectangular box
 *
 *  07 June 2020
 *

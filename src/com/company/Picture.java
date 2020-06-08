@@ -1,7 +1,7 @@
 package com.company;
 /*
 *
-* Classame : Picture
+* Classname : Picture
 *
 *  07 June 2020
 *
